@@ -6,6 +6,8 @@
 
 This repository contains proof of work for getting started with grafana
 
+Note: Screenshot.md in Screenshots folder contains pictorial guide.
+
 ---
 
 ## Prerequisites
